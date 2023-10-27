@@ -5,6 +5,7 @@
 			"type": "node",
 			"request": "launch",
 			"name": "Launch Express App",
+			"runtimeExecutable": "${workspaceFolder}/backEnd/node_modules/nodemon/bin/nodemon.js",
 			"program": "${workspaceFolder}/backEnd/index.js",
 			"cwd": "${workspaceFolder}",
 			"protocol": "inspector",
