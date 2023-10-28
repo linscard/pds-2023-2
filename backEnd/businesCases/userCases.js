@@ -16,7 +16,7 @@ async function createUser(data) {
 }
 
 async function updateUser(data) {
-	// Validate something
+	// Validate something here
 	return await updateData('users', data)
 }
 
