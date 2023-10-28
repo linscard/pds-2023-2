@@ -22,7 +22,7 @@ const myUserMock = {
 
 // const mockCalendar = {
 // 	[{nomeTarefa, start, end},
-// 		{ nomeTarefa, start, end }]
+// 	{ nomeTarefa, start, end }]
 // }
 
 module.exports = {
